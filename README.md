@@ -11,4 +11,4 @@ mod for the sh1106 to driver 12863 oled screen
 * leehunter8801非常热情的出售者,总是很有精力,还有个会发光的键盘,据说大学时代就跟着他到现在每天坐的办公室了,简而言之他是这个惠特的出售者制造者.
 
 ## 森亮号见识页面
-:http://see.sl088.com/id/4de
+http://see.sl088.com/id/4de
